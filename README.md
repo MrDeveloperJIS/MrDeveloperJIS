@@ -48,7 +48,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mrdeveloperjis&color=blue)
 
-If you &#128150; my wok, please &#11088; the repositories! <!--&#129312;-->
+If you &#128150; my wok, please &#11088; the repositories! 
+
+<br>
+
+![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
 
 <br>
 
@@ -63,5 +67,3 @@ If you &#128150; my wok, please &#11088; the repositories! <!--&#129312;-->
 <!-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrdeveloperjis&repo=mrdeveloperjis&show_owner=true) -->
 
 <!-- ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14239209) -->
-
-
