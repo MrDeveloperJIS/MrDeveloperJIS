@@ -36,10 +36,9 @@
 
 <br>
 
-<a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/email.svg"/></a>
+<a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
 <a href="https://www.facebook.com/mrdeveloperjis" target="_blank"><img alt="Facebook" title="Facebook" src="assets/social/facebook.svg"/></a>
 <a href="https://www.twitter.com/mrdeveloperjis" target="_blank"><img alt="Twitter" title="Twitter" src="assets/social/twitter.svg"/></a>
-<a href="https://www.instagram.com/mrdeveloperjis" target="_blank"><img alt="Instagram" title="Instagram" src="assets/social/instagram.svg"/></a>
 <a href="https://wa.me/+8801956185620" target="_blank"><img alt="WhatsApp" title="WhatsApp" src="assets/social/whatsapp.svg"/></a>
 <a href="https://www.t.me/mrdeveloperjis" target="_blank"><img alt="Telegram" title="Telegram" src="assets/social/telegram.svg"/></a>
 <a href="https://www.linkedin.com/in/mrdeveloperjis" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="assets/social/linkedin.svg"/></a>
@@ -48,22 +47,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mrdeveloperjis&color=blue)
 
-If you &#128150; my wok, please &#11088; the repositories! 
+If you &#128150; my wok, please &#11088; the repositories!
 
 <br>
 
 ![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
-
-<br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true&hide_rank=false)
-
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact&hide=ruby)
-
-<!-- ![Tropghy](https://github-profile-trophy.vercel.app/?username=hansputera) -->
-
-<!-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mrdeveloperjis&repo=mrdeveloperjis&show_owner=true) -->
-
-<!-- ![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14239209) -->
