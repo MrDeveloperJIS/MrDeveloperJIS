@@ -24,6 +24,7 @@
 <i><img title="Markdown" alt="Markdown" src="assets/skills/markdown.svg"/></i>
 <i><img title="JavaScript" alt="JavaScript" src="assets/skills/javascript.svg"/></i>
 <i><img title="jQuery" alt="jQuery" src="assets/skills/jquery.svg"/></i>
+<i><img title="SQL" alt="sql" src="assets/skills/database.svg"/></i>
 <i><img title="Java" alt="Java" src="assets/skills/java.svg"/></i>
 <i><img title="C" alt="C" src="assets/skills/c.svg"/></i>
 <i><img title="Git" alt="Git" src="assets/skills/git.svg"/></i>
@@ -38,6 +39,7 @@
 
 <a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
 <a href="https://www.facebook.com/mrdeveloperjis" target="_blank"><img alt="Facebook" title="Facebook" src="assets/social/facebook.svg"/></a>
+<a href="https://www.instagram.com/mrdeveloperjis" target="_blank"><img alt="Instagram" title="Instagram" src="assets/social/instagram.svg"/></a>
 <a href="https://www.twitter.com/mrdeveloperjis" target="_blank"><img alt="Twitter" title="Twitter" src="assets/social/twitter.svg"/></a>
 <a href="https://wa.me/+8801956185620" target="_blank"><img alt="WhatsApp" title="WhatsApp" src="assets/social/whatsapp.svg"/></a>
 <a href="https://www.t.me/mrdeveloperjis" target="_blank"><img alt="Telegram" title="Telegram" src="assets/social/telegram.svg"/></a>
@@ -45,6 +47,7 @@
 
 <br>
 
+![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=mrdeveloperjis&color=blue)
 
 If you &#128150; my wok, please &#11088; the repositories!
@@ -53,8 +56,8 @@ If you &#128150; my wok, please &#11088; the repositories!
 
 ![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true&hide_rank=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact&hide=ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact)
