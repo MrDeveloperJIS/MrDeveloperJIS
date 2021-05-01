@@ -48,7 +48,6 @@
 <br>
 
 ![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=mrdeveloperjis&color=blue)
 
 If you &#128150; my wok, please &#11088; the repositories!
 
