@@ -14,7 +14,7 @@
 
 <br><br>
 
-<h3> &#128681; My skills &#127891; </h3>
+<h3> &#128681; My skills <img src="assets/gif/cat-coding.gif" width="25px" alt="skills"> </h3>
 
 <br>
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3> &#128681; Stay connected &#129309; </h3>
+<h3> &#128681; Stay connected <img src="assets/gif/handshake.gif" width="30px" alt="hi"> </h3>
 
 <br>
 
