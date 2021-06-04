@@ -1,12 +1,12 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I'm JAHID</h1>
+<h1 align="center">Hi there <img src="assets/gif/hello.gif" width="25px"> I'm JAHID</h1>
 
 * &#128205; From Chittagong, Bangladesh. ![bd flag](assets/flags/bd.svg)
 * &#127891; A undergraduate student.
 * &#128187; Tech lover, like **coding**.
 * &#128214; Longlife learner.
 * &#128187; Currently learning **JavaScript, jQuery**.
-* &#127941; 2021 Goal: Becoming a Frontend Web Developer.
-* &#128165; Want to contribute more to Open Source projects.
+* &#127941; 2021 Goal: Becoming a **Frontend Web Developer**.
+* &#128165; Want to contribute more to **Open Source** projects.
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<h3> &#128681; My skills <img src="assets/gif/cat-coding.gif" width="25px" alt="skills"> </h3>
+<h2> &#128681; My skills <img src="assets/gif/cat-coding.gif" width="25px" alt="skills"> </h2>
 
 <br>
 
@@ -33,13 +33,16 @@
 
 <br>
 
-<h3> &#128681; Stay connected <img src="assets/gif/handshake.gif" width="30px" alt="hi"> </h3>
+<h2> &#128681; Stay connected <img src="assets/gif/handshake.gif" width="40px" alt="hi"> </h2>
 
 <br>
 
 <a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
 <a href="https://www.facebook.com/mrdeveloperjis" target="_blank"><img alt="Facebook" title="Facebook" src="assets/social/facebook.svg"/></a>
+<a href="https://m.me/mrdeveloperjis" target="_blank"><img alt="Messenger" title="Messenger" src="assets/social/messenger.svg"/></a>
 <a href="https://www.instagram.com/mrdeveloperjis" target="_blank"><img alt="Instagram" title="Instagram" src="assets/social/instagram.svg"/></a>
+<a href="https://www.pinterest.com/mrdeveloperjis" target="_blank"><img alt="Pinterest" title="Pinterest" src="assets/social/pinterest.svg"/></a>
+<a href="https://www.reddit.com/user/mrdeveloperjis" target="_blank"><img alt="Reddit" title="Reddit" src="assets/social/reddit.svg"/></a>
 <a href="https://www.twitter.com/mrdeveloperjis" target="_blank"><img alt="Twitter" title="Twitter" src="assets/social/twitter.svg"/></a>
 <a href="https://wa.me/+8801956185620" target="_blank"><img alt="WhatsApp" title="WhatsApp" src="assets/social/whatsapp.svg"/></a>
 <a href="https://www.t.me/mrdeveloperjis" target="_blank"><img alt="Telegram" title="Telegram" src="assets/social/telegram.svg"/></a>
@@ -47,16 +50,22 @@
 
 <br>
 
-![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)
+[![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://mrdeveloperjis.github.io)
 
-If you &#128150; my wok, please &#11088; the repositories!
+<details>
+
+<summary>If you &#128150; my wok, please &#11088; the repositories!</summary>
 
 <br>
-
-![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact)
+
+</details>
+
+<br>
+
+![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
