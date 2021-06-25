@@ -8,10 +8,6 @@
 * &#127941; 2021 Goal: Becoming a **Frontend Web Developer**.
 * &#128165; Want to contribute more to **Open Source** projects.
 
-<br>
-
-![coder](assets/gif/coding.gif)
-
 <br><br>
 
 <h1> &#128681; My skills <img src="assets/gif/cat-coding.gif" width="40px"> </h1>
@@ -50,7 +46,7 @@
 
 <br>
 
-[![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://mrdeveloperjis.github.io)
+[![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://github.com/topics/mrdeveloperjis)
 
 <details>
 
@@ -62,10 +58,4 @@
 
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact)
-
 </details>
-
-<br>
-
-![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
