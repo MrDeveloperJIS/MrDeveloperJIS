@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="assets/gif/hello.gif" width="25px"> I'm JAHID</h1>
 
 * &#128205; From Chittagong, Bangladesh. ![bd flag](assets/flags/bd.svg)
-* &#127891; A undergraduate student.
-* &#128187; Tech lover, like **coding**.
+* &#127891; A *undergraduate* student.
+* &#128187; ***Tech lover***, **like coding**.
 * &#128214; Longlife learner.
 * &#128187; Currently learning **JavaScript, jQuery**.
-* &#127941; 2021 Goal: Becoming a **Frontend Web Developer**.
+* &#127941; *2022* Goal: Becoming a **Frontend Web Developer**.
 * &#128165; Want to contribute more to **Open Source** projects.
 
 <br><br>
