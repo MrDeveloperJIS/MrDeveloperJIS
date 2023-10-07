@@ -1,16 +1,16 @@
-<h1 align="center">Hi there <img src="assets/gif/hello.gif" width="25px" height="25px"> I'm JAHID</h1>
+<h1 align="center">Hello World! &#128506; <br> I'm JAHID &#128075; </h1>
 
-* &#128205; From Chittagong, Bangladesh. ![bd flag](assets/flags/bd.svg)
-* &#127891; A *undergraduate* student.
+* &#128205; From Chattogram, Bangladesh. ![bd flag](assets/flags/bd.svg)
+* &#127891; An *undergraduate* student.
 * &#128187; ***Tech lover***.
 * &#128214; Quick learner.
 * &#128187; Currently learning **Python**.
-* &#127941; *2023* Goal: Becoming a **Data Analytics**.
-* &#128165; Want to contribute more to **Open Source** projects.
+* &#127941; *2024* Goal: Becoming a **Data Analytics**.
+* &#129309; Want to contribute more to **Open Source** projects.
 
 <br><br>
 
-<h1> &#128681; My skills <img src="assets/gif/cat-coding.gif" width="40px" height="25px"> </h1>
+<h1> &#128681; My skills <img title="HTML" alt="HTML" src="assets/others/coding.svg"> </h1>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<h1> &#128681; Stay connected <img src="assets/gif/handshake.gif" width="60px" height="25px"> </h1>
+<h1> &#128681; Stay connected <img title="HTML" alt="HTML" src="assets/others/handshake.svg"> </h1>
 
 <br>
 
