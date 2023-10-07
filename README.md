@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! &#128506; <br> I'm JAHID &#128075; </h1>
+<h1 align="center">Hello World! <img title="hello world" alt="hello world" src="assets/flags/world-map.svg"> <br> I'm JAHID &#128075; </h1>
 
 * &#128205; From Chattogram, Bangladesh. ![bd flag](assets/flags/bd.svg)
 * &#127891; An *undergraduate* student.
@@ -10,7 +10,7 @@
 
 <br><br>
 
-<h1> &#128681; My skills <img title="HTML" alt="HTML" src="assets/others/coding.svg"> </h1>
+<h1> &#128681; My skills <img title="skills" alt="skills" src="assets/others/coding.svg"> </h1>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<h1> &#128681; Stay connected <img title="HTML" alt="HTML" src="assets/others/handshake.svg"> </h1>
+<h1> &#128681; Stay connected <img title="contact" alt="contact" src="assets/others/handshake.svg"> </h1>
 
 <br>
 
