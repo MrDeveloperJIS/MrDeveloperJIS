@@ -2,7 +2,7 @@
 
 * &#128205; From Chattogram, Bangladesh. ![bd flag](assets/flags/bd.svg)
 * &#127891; An *undergraduate* student.
-* &#128187; ***Tech lover***.
+* &#128150; ***Tech lover***.
 * &#128214; Quick learner.
 * &#128187; Currently learning **Networking**.
 * &#127941; *2024* Goal: Becoming a **Data Analytics**.
