@@ -4,13 +4,13 @@
 * &#127891; An *undergraduate* student.
 * &#128187; ***Tech lover***.
 * &#128214; Quick learner.
-* &#128187; Currently learning **Python**.
+* &#128187; Currently learning **Networking**.
 * &#127941; *2024* Goal: Becoming a **Data Analytics**.
 * &#129309; Want to contribute more to **Open Source** projects.
 
 <br><br>
 
-<h1> &#128681; My skills <img title="skills" alt="skills" src="assets/others/coding.svg"> </h1>
+<h1> &#128681; My skills <img src="assets/others/coding.svg"> </h1>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-<h1> &#128681; Stay connected <img title="contact" alt="contact" src="assets/others/handshake.svg"> </h1>
+<h1> &#128681; Stay connected <img src="assets/others/handshake.svg"> </h1>
 
 <br>
 
