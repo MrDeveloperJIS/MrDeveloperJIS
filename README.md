@@ -62,4 +62,4 @@
 
 <br>
 
-<img src="assets/others/qrcode-mrdeveloperjis.github.io-black.svg">
+<a href="https://mrdeveloperjis.github.io" target="_blank"><img src="assets/others/qrcode-mrdeveloperjis.github.io-black.svg"></a>
