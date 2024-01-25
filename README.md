@@ -59,3 +59,7 @@
 ![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
 
 </details>
+
+<br>
+
+<img src="assets/others/qrcode-mrdeveloperjis.github.io-black.svg">
