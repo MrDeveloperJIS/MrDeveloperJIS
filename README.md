@@ -1,48 +1,50 @@
-<h1 align="center">Hello World! <img title="hello world" alt="hello world" src="assets/flags/world-map.svg"> <br> I'm JAHID &#128075; </h1>
+# Hello World! ![](assets/flags/world-map.svg)  I'm Md. Jahidul Islam Sujan &#128075;
 
-* &#128205; From Chattogram, Bangladesh. ![bd flag](assets/flags/bd.svg)
-* &#127891; An *undergraduate* student.
-* &#128150; ***Tech lover***.
-* &#128214; Quick learner.
-* &#128187; Currently learning **Networking**.
-* &#127941; *2024* Goal: Becoming a **Data Analytics**.
-* &#129309; Want to contribute more to **Open Source** projects.
+&#128205; From Chattogram, Bangladesh. ![bd flag](assets/flags/bd.svg)
+<br>
+&#127891; An *undergraduate* student.
+<br>
+&#128150; ***Tech lover***.
+<br>
+&#128214; Quick learner.
+<br>
+&#128187; Currently learning **Networking**.
+<br>
+&#127941; *2024* Goal: Becoming a **Web Analytics**.
+<br>
+&#129309; Want to contribute more to **Open Source** projects.
+<br>
+<br>
 
-<br><br>
+## &#128681; My skills ![](assets/others/coding.svg)
 
-<h1> &#128681; My skills <img src="assets/others/coding.svg"> </h1>
+![HTML](assets/skills/html5.svg)
+![CSS](assets/skills/css3.svg)
+![Bootstrap](assets/skills/bootstrap.svg)
+![Markdown](assets/skills/markdown.svg)
+![JavaScript](assets/skills/javascript.svg)
+![jQuery](assets/skills/jquery.svg)
+![SQL](assets/skills/database.svg)
+![Java](assets/skills/java.svg)
+![C](assets/skills/c.svg)
+![Git](assets/skills/git.svg)
+![GitHub](assets/skills/github.svg)
+![WordPress](assets/skills/wordpress.svg)
 
 <br>
 
-<i><img title="HTML" alt="HTML" src="assets/skills/html5.svg"/></i>
-<i><img title="CSS" alt="CSS" src="assets/skills/css3.svg"/></i>
-<i><img title="Bootstrap" alt="Bootstrap" src="assets/skills/bootstrap.svg"/></i>
-<i><img title="Markdown" alt="Markdown" src="assets/skills/markdown.svg"/></i>
-<i><img title="JavaScript" alt="JavaScript" src="assets/skills/javascript.svg"/></i>
-<i><img title="jQuery" alt="jQuery" src="assets/skills/jquery.svg"/></i>
-<i><img title="SQL" alt="sql" src="assets/skills/database.svg"/></i>
-<i><img title="Java" alt="Java" src="assets/skills/java.svg"/></i>
-<i><img title="C" alt="C" src="assets/skills/c.svg"/></i>
-<i><img title="Git" alt="Git" src="assets/skills/git.svg"/></i>
-<i><img title="GitHub" alt="GitHub" src="assets/skills/github.svg"/></i>
-<i><img title="WordPress" alt="WordPress" src="assets/skills/wordpress.svg"/></i>
+## &#128681; Stay connected ![](assets/others/handshake.svg)
 
-<br>
-
-<h1> &#128681; Stay connected <img src="assets/others/handshake.svg"> </h1>
-
-<br>
-
-<a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
-<a href="https://www.facebook.com/mrdeveloperjis" target="_blank"><img alt="Facebook" title="Facebook" src="assets/social/facebook.svg"/></a>
-<a href="https://m.me/mrdeveloperjis" target="_blank"><img alt="Messenger" title="Messenger" src="assets/social/messenger.svg"/></a>
-<a href="https://www.instagram.com/mrdeveloperjis" target="_blank"><img alt="Instagram" title="Instagram" src="assets/social/instagram.svg"/></a>
-<a href="https://www.pinterest.com/mrdeveloperjis" target="_blank"><img alt="Pinterest" title="Pinterest" src="assets/social/pinterest.svg"/></a>
-<a href="https://www.reddit.com/user/mrdeveloperjis" target="_blank"><img alt="Reddit" title="Reddit" src="assets/social/reddit.svg"/></a>
-<a href="https://www.twitter.com/mrdeveloperjis" target="_blank"><img alt="Twitter" title="Twitter" src="assets/social/twitter.svg"/></a>
-<a href="https://wa.me/+8801956185620" target="_blank"><img alt="WhatsApp" title="WhatsApp" src="assets/social/whatsapp.svg"/></a>
-<a href="https://www.t.me/mrdeveloperjis" target="_blank"><img alt="Telegram" title="Telegram" src="assets/social/telegram.svg"/></a>
-<a href="https://www.linkedin.com/in/mrdeveloperjis" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="assets/social/linkedin.svg"/></a>
+[![Gmail](assets/social/gmail.svg)](mailto:mrdeveloperjis@gmail.com)
+[![Facebook](assets/social/facebook.svg)](https://www.facebook.com/mrdeveloperjis)
+[![Messenger](assets/social/messenger.svg)](https://m.me/mrdeveloperjis)
+[![Instagram](assets/social/instagram.svg)](https://www.instagram.com/mrdeveloperjis)
+[![Pinterest](assets/social/pinterest.svg)](https://www.pinterest.com/mrdeveloperjis)
+[![Reddit](assets/social/reddit.svg)](https://www.reddit.com/user/mrdeveloperjis)
+[![Twitter](assets/social/twitter.svg)](https://www.twitter.com/mrdeveloperjis)
+[![WhatsApp](assets/social/whatsapp.svg)](https://wa.me/+8801956185620)
+[![Telegram](assets/social/telegram.svg)](https://www.t.me/mrdeveloperjis)
+[![LinkedIn](assets/social/linkedin.svg)](https://www.linkedin.com/in/mrdeveloperjis)
 
 <br>
 
@@ -62,4 +64,4 @@
 
 <br>
 
-<a href="https://mrdeveloperjis.github.io" target="_blank"><img src="assets/others/qrcode-mrdeveloperjis.github.io-black.svg"></a>
+[![PROFILE](assets/others/qrcode-mrdeveloperjis.github.io-black.svg)](https://mrdeveloperjis.github.io)
