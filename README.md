@@ -18,18 +18,18 @@
 
 ## &#128681; My skills ![](assets/others/coding.svg)
 
-![HTML](assets/skills/html5.svg)
-![CSS](assets/skills/css3.svg)
-![Bootstrap](assets/skills/bootstrap.svg)
-![Markdown](assets/skills/markdown.svg)
-![JavaScript](assets/skills/javascript.svg)
-![jQuery](assets/skills/jquery.svg)
-![SQL](assets/skills/database.svg)
-![Java](assets/skills/java.svg)
-![C](assets/skills/c.svg)
-![Git](assets/skills/git.svg)
-![GitHub](assets/skills/github.svg)
-![WordPress](assets/skills/wordpress.svg)
+[![HTML](assets/skills/html5.svg)](https://www.w3schools.com/html/)
+[![CSS](assets/skills/css3.svg)](https://www.w3schools.com/css/)
+[![Bootstrap](assets/skills/bootstrap.svg)](https://www.w3schools.com/bootstrap/)
+[![Markdown](assets/skills/markdown.svg)](https://www.markdownguide.org/)
+[![JavaScript](assets/skills/javascript.svg)](https://www.w3schools.com/js/)
+[![jQuery](assets/skills/jquery.svg)](https://www.w3schools.com/jquery/)
+[![SQL](assets/skills/database.svg)](https://www.w3schools.com/sql/)
+[![Java](assets/skills/java.svg)](https://www.w3schools.com/java/)
+[![C](assets/skills/c.svg)](https://www.w3schools.com/c/)
+[![Git](assets/skills/git.svg)](https://www.w3schools.com/git/)
+[![GitHub](assets/skills/github.svg)](https://github.com/)
+[![WordPress](assets/skills/wordpress.svg)](https://wordpress.org/)
 
 <br>
 
@@ -48,7 +48,7 @@
 
 <br>
 
-[![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://github.com/topics/mrdeveloperjis)
+[![mrdeveloperjis](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://github.com/topics/mrdeveloperjis)
 
 <details>
 
