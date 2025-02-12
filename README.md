@@ -1,4 +1,4 @@
-# Hello World! <img src="assets/world-map-flag/world-map.svg">  I'm Md. Jahidul Islam Sujan <img src="assets/gif/hello.gif" height="24">
+# Hello World! <img src="assets/world-map-flag/world-map.svg"> <br> I'm Md. Jahidul Islam Sujan <img src="assets/gif/hello.gif" height="24">
 
 &#128205; From Chattogram, Bangladesh. ![bd flag](assets/world-map-flag/bd.svg)
 <br>
@@ -8,11 +8,7 @@
 <br>
 &#128214; Quick learner.
 <br>
-&#128187; Currently learning **React**.
-<br>
-&#127941; *2025* Goal: Becoming a **Full Stack Web Developer**.
-<br>
-&#129309; Want to contribute more to **Open Source** projects.
+&#129309; Want to contribute more.
 <br>
 <br>
 
@@ -64,4 +60,5 @@
 
 <br>
 
-[![PROFILE](assets/others/qrcode-mrdeveloperjis.github.io.svg)](https://mrdeveloperjis.github.io)
+[<img src="assets/img/MdJahidulIslamSujan.jpg" style="width:256px;height:256px;aspect-ratio:1;"> <img src="assets/others/qrcode-mrdeveloperjis.github.io.svg">](https://mrdeveloperjis.github.io)
+<!-- <img src="assets/gif/jis+qr.gif" height="256"> -->
