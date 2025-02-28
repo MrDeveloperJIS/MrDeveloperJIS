@@ -37,7 +37,7 @@
 [![Facebook](assets/social/facebook.svg)](https://www.facebook.com/mrdeveloperjis)
 [![Messenger](assets/social/messenger.svg)](https://m.me/mrdeveloperjis)
 [![Instagram](assets/social/instagram.svg)](https://www.instagram.com/mrdeveloperjis)
-[![Twitter](assets/social/twitter.svg)](https://www.twitter.com/mrdeveloperjis)
+[![Twitter](assets/social/x-twitter.svg)](https://www.twitter.com/mrdeveloperjis)
 [![WhatsApp](assets/social/whatsapp.svg)](https://wa.me/+8801956185620)
 [![Telegram](assets/social/telegram.svg)](https://www.t.me/mrdeveloperjis)
 [![LinkedIn](assets/social/linkedin.svg)](https://www.linkedin.com/in/mrdeveloperjis)
@@ -48,7 +48,7 @@
 
 <details>
 
-<summary>If you &#128150; my wok, please &#11088; the repositories!</summary>
+<summary> If you love &#128150; my wok, please star &#11088; the repositories! </summary>
 
 <br>
 
@@ -61,4 +61,3 @@
 <br>
 
 [<img src="assets/img/MdJahidulIslamSujan.jpg" style="width:256px;height:256px;aspect-ratio:1;"> <img src="assets/others/qrcode-mrdeveloperjis.github.io.svg">](https://mrdeveloperjis.github.io)
-<!-- <img src="assets/gif/jis+qr.gif" height="256"> -->
