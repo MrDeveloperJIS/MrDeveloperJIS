@@ -44,20 +44,12 @@
 
 <br>
 
-[![mrdeveloperjis](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-black?logo=github&logoColor=white)](https://github.com/topics/mrdeveloperjis)
+[![mrdeveloperjis](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-black?logo=github&logoColor=white)](https://mrdeveloperjis.github.io)
 
-<details>
+&#128150; If you love my wok, please star the repositories! &#11088;
 
-<summary> If you love &#128150; my wok, please star &#11088; the repositories! </summary>
+![GitHub stats](https://readme-profile-all-stats.vercel.app/api?username=MrdeveloperJIS&count_private=true&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&include_all_commits=true&theme=dark&rank_icon=github&card_width=512)
 
-<br>
+![GitHub Streak](https://readme-streak-stats-ten.vercel.app?user=MrdeveloperJIS&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=200)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github)
-
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis&theme=dark&hide_border=true)
-
-</details>
-
-<br>
-
-[<img src="assets/img/MdJahidulIslamSujan.jpg" style="width:256px;height:256px;aspect-ratio:1;"> <img src="assets/others/qrcode-mrdeveloperjis.github.io.svg">](https://mrdeveloperjis.github.io)
+[<img src="assets/img/MdJahidulIslamSujan.jpg" style="width:256px;height:256px;aspect-ratio:1;"><img src="assets/others/qrcode-mrdeveloperjis.github.io.svg">](https://mrdeveloperjis.github.io)
