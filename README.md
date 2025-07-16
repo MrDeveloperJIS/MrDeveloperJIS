@@ -48,8 +48,8 @@
 
 &#128150; If you love my wok, please star the repositories! &#11088;
 
-![GitHub stats](https://readme-profile-all-stats.vercel.app/api?username=MrdeveloperJIS&count_private=true&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&include_all_commits=true&theme=dark&rank_icon=github&card_width=512)
+![GitHub stats](https://readme-profile-all-stats.vercel.app/api?username=MrdeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=true&count_private=true&card_width=512)
 
-![GitHub Streak](https://readme-streak-stats-ten.vercel.app?user=MrdeveloperJIS&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=200)
+![GitHub Streak](https://readme-streak-stats-ten.vercel.app?user=MrdeveloperJIS&theme=dark&background=0c0c0c&border_radius=0&border=f0f8ff&stroke=f0f8ff&ring=f0f8ff&fire=f0f8ff&currStreakNum=f0f8ff&sideNums=f0f8ff&currStreakLabel=f0f8ff&sideLabels=f0f8ff&dates=f0f8ffbd&starting_year=2020&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=200)
 
 [<img src="assets/img/MdJahidulIslamSujan.jpg" style="width:256px;height:256px;aspect-ratio:1;"><img src="assets/others/qrcode-mrdeveloperjis.github.io.svg">](https://mrdeveloperjis.github.io)
