@@ -10,7 +10,20 @@
 
 <h2 style="color:#f0f8ff;"> &#128681; My skills <img src="assets/gif/cat-coding.gif" height="24"> </h2>
 
-<img src="assets/skills/html5.svg" alt="HTML"> <img src="assets/skills/css3.svg" alt="CSS"> <img src="assets/skills/bootstrap.svg" alt="Bootstrap"> <img src="assets/skills/markdown.svg" alt="Markdown"> <img src="assets/skills/javascript.svg" alt="JavaScript"> <img src="assets/skills/database.svg" alt="SQL"> <img src="assets/skills/c.svg" alt="C"> <img src="assets/skills/python.svg" alt="Python"> <img src="assets/skills/git.svg" alt="Git"> <img src="assets/skills/github.svg" alt="GitHub"> <img src="assets/skills/linux.svg" alt="Linux"> <img src="assets/skills/wordpress.svg" alt="WordPress">
+<p>
+    <img src="assets/skills/html5.svg" alt="HTML">
+    <img src="assets/skills/css3.svg" alt="CSS">
+    <img src="assets/skills/bootstrap.svg" alt="Bootstrap">
+    <img src="assets/skills/markdown.svg" alt="Markdown">
+    <img src="assets/skills/javascript.svg" alt="JavaScript">
+    <img src="assets/skills/database.svg" alt="SQL">
+    <img src="assets/skills/c.svg" alt="C">
+    <img src="assets/skills/python.svg" alt="Python">
+    <img src="assets/skills/git.svg" alt="Git">
+    <img src="assets/skills/github.svg" alt="GitHub">
+    <img src="assets/skills/linux.svg" alt="Linux">
+    <img src="assets/skills/wordpress.svg" alt="WordPress">
+</p>
 
 <h2 style="color:#f0f8ff;"> &#128681; Stay connected <img src="assets/gif/handshake.gif" height="24"> </h2>
 
