@@ -23,7 +23,7 @@
 
 ## &#128681; Stay connected <img src="assets/gif/handshake.gif" height="24">
 
-[![Gmail](assets/social/gmail.svg)](mailto:mrdeveloperjis@gmail.com)
+[![Email](assets/social/email.svg)](mailto:mdjahidulislamsujan@outlook.com)
 [![Facebook](assets/social/facebook.svg)](https://www.facebook.com/mrdeveloperjis)
 [![Messenger](assets/social/messenger.svg)](https://m.me/mrdeveloperjis)
 [![Instagram](assets/social/instagram.svg)](https://www.instagram.com/mrdeveloperjis)
