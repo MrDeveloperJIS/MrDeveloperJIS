@@ -8,18 +8,17 @@
 
 ## &#128681; My skills <img src="assets/gif/cat-coding.gif" height="24">
 
-![HTML](assets/skills/html5.svg)
-![CSS](assets/skills/css3.svg)
-![Bootstrap](assets/skills/bootstrap.svg)
-![Markdown](assets/skills/markdown.svg)
-![JavaScript](assets/skills/javascript.svg)
-![SQL](assets/skills/database.svg)
-![C](assets/skills/c.svg)
-![Python](assets/skills/python.svg)
-![Git](assets/skills/git.svg)
-![GitHub](assets/skills/github.svg)
-![Linux](assets/skills/linux.svg)
-![WordPress](assets/skills/wordpress.svg)
+[![HTML](assets/skills/html5.svg)](#)
+[![CSS](assets/skills/css3.svg)](#)
+[![Bootstrap](assets/skills/bootstrap.svg)](#)
+[![Markdown](assets/skills/markdown.svg)](#)
+[![JavaScript](assets/skills/javascript.svg)](#)
+[![SQL](assets/skills/database.svg)](#)
+[![C](assets/skills/c.svg)](#)
+[![Git](assets/skills/git.svg)](#)
+[![GitHub](assets/skills/github.svg)](#)
+[![Linux](assets/skills/linux.svg)](#)
+[![WordPress](assets/skills/wordpress.svg)](#)
 
 ## &#128681; Stay connected <img src="assets/gif/handshake.gif" height="24">
 
@@ -36,7 +35,7 @@
 
 &#128150; If you love my work, please star the repositories! &#11088;
 
-[![GitHub stats of Md. Jahidul Islam Sujan](https://readme-profile-stats-of-mrdeveloper.vercel.app/api?username=MrdeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=false&card_width=512)](https://mrdeveloperjis.github.io)
+[![GitHub stats of Md. Jahidul Islam Sujan](https://readme-profile-stats-of-mrdeveloper.vercel.app/api?username=MrdeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=false&cache_seconds=900&card_width=512)](https://mrdeveloperjis.github.io)
 <!-- If you are using the README in your profile, please replace "readme-profile-stats-of-mrdeveloper" with "github-readme-stats". Because it will expire on Wed, Oct 15 2025 -->
 <!-- For the best results on your profile, deploy the repo yourself. For a step-by-step guide, visit: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own and replace the domain "readme-profile-stats-of-mrdeveloper.vercel.app" with your own. -->
 
