@@ -35,11 +35,13 @@
 
 &#128150; If you love my work, please star the repositories! &#11088;
 
-<!-- If you are using this README in your profile, please replace "github-readme-stats-mrdeveloperjis" with "github-readme-stats", as the current one will expire in the next 90 days. -->
-<!-- Make sure to replace the username "MrdeveloperJIS" with your own. -->
-[![GitHub stats of Md. Jahidul Islam Sujan](https://github-readme-stats-mrdeveloperjis.vercel.app/api?username=MrdeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=false&cache_seconds=1800&card_width=512)](https://mrdeveloperjis.github.io)
-<!-- For the best results on your profile, deploy the repo yourself. For a step-by-step guide, visit: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own and replace the domain "https://github-readme-stats-mrdeveloperjis.vercel.app/" with your own. -->
+<!-- IMPORTANT:
+Replace the URL https://github-readme-stats-mrdeveloperjis.vercel.app/ with your own deployed domain (for example: https://your-deploy-name.vercel.app/).
+Reason: This is a personal/self-hosted deployment and access may be restricted by the owner. Your own deployment ensures reliability and full control.
+-->
 
-[![GitHub streak of Md. Jahidul Islam Sujan](https://streak-stats.demolab.com?user=MrdeveloperJIS&theme=dark&background=0c0c0c&border_radius=0&border=f0f8ff&stroke=f0f8ff&ring=f0f8ff&fire=f0f8ff&currStreakNum=f0f8ff&sideNums=f0f8ff&currStreakLabel=f0f8ff&sideLabels=f0f8ff&dates=f0f8ffbd&starting_year=2020&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=180)](https://mrdeveloperjis.github.io)
+[![GitHub stats of Md. Jahidul Islam Sujan](https://github-readme-stats-mrdeveloperjis.vercel.app/api?username=MrDeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=false&cache_seconds=1800&card_width=512)](https://mrdeveloperjis.github.io)
+
+[![GitHub streak of Md. Jahidul Islam Sujan](https://streak-stats.demolab.com?user=MrDeveloperJIS&theme=dark&background=0c0c0c&border_radius=0&border=f0f8ff&stroke=f0f8ff&ring=f0f8ff&fire=f0f8ff&currStreakNum=f0f8ff&sideNums=f0f8ff&currStreakLabel=f0f8ff&sideLabels=f0f8ff&dates=f0f8ffbd&starting_year=2020&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=180)](https://mrdeveloperjis.github.io)
 
 [![Logo & QR Code of Md. Jahidul Islam Sujan](assets/own/JIS-logo-qr.svg)](https://mrdeveloperjis.github.io)
