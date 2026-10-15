@@ -33,15 +33,18 @@
 
 [![Profile card of Md. Jahidul Islam Sujan](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-0c0c0c?style=flat-square&logo=github&logoColor=f0f8ff&labelColor=505050)](https://mrdeveloperjis.github.io)
 
-&#128150; If you love my work, please star the repositories! &#11088;
+&#128150; If you like my work, please star the repositories! &#11088;
 
 <!-- IMPORTANT:
-Replace the URL https://github-readme-stats-mrdeveloperjis.vercel.app/ and https://github-streak-stats-mrdeveloperjis.vercel.app/ with your own deployed domain (for example: https://your-deploy-name.vercel.app/).
+Replace the URL https://gh-readme-profile-state-cards.vercel.app/ with your own deployed domain (for example: https://your-deploy-name.vercel.app/).
 Reason: This is a personal/self-hosted deployment and access may be restricted by the owner. Your own deployment ensures reliability and full control.
 -->
 
-[![GitHub stats of Md. Jahidul Islam Sujan](https://github-readme-stats-mrdeveloperjis.vercel.app/api?username=MrDeveloperJIS&theme=dark&bg_color=0c0c0c&title_color=f0f8ff&text_color=f0f8ff&show_icons=true&icon_color=f0f8ff&border_color=f0f8ff&border_radius=0&rank_icon=github&include_all_commits=false&cache_seconds=1800&card_width=512)](https://mrdeveloperjis.github.io)
+[![GitHub stats](https://gh-readme-profile-state-cards.vercel.app/api/stats?user=MrDeveloperJIS&theme=dark&font=system-ui&bg_color=0c0c0c&border_color=f0f8ff&title_color=f0f8ff&text_color=f0f8ff&icon_color=f0f8ff&ring_color=f0f8ff&border_radius=0&card_width=512&number_format=long&include_all_commits=true&hide_rank=true)](https://mrdeveloperjis.github.io)
 
-[![GitHub streak of Md. Jahidul Islam Sujan](https://github-streak-stats-mrdeveloperjis.vercel.app/?user=MrDeveloperJIS&theme=dark&background=0c0c0c&border_radius=0&border=f0f8ff&stroke=f0f8ff&ring=f0f8ff&fire=f0f8ff&currStreakNum=f0f8ff&sideNums=f0f8ff&currStreakLabel=f0f8ff&sideLabels=f0f8ff&dates=f0f8ffbd&starting_year=2020&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=180)](https://mrdeveloperjis.github.io)
+[![GitHub streak](https://gh-readme-profile-state-cards.vercel.app/api/streak?user=MrDeveloperJIS&theme=dark&font=system-ui&bg_color=0c0c0c&border_color=f0f8ff&title_color=f0f8ff&text_color=f0f8ff&icon_color=f0f8ff&ring_color=f0f8ff&border_radius=0&card_width=512&number_format=long&start_year=2020)](https://mrdeveloperjis.github.io)
+
+[![GitHub calendar](https://gh-readme-profile-state-cards.vercel.app/api/calendar?user=MrDeveloperJIS&theme=dark&font=system-ui&bg_color=0c0c0c&border_color=f0f8ff&title_color=f0f8ff&text_color=f0f8ff&icon_color=f0f8ff&ring_color=f0f8ff&border_radius=0&card_width=512&number_format=long&start_year=2024)](https://mrdeveloperjis.github.io)
+
 
 [![Logo & QR Code of Md. Jahidul Islam Sujan](assets/own/JIS-logo-qr.svg)](https://mrdeveloperjis.github.io)
